@@ -1,2 +1,4 @@
 def main():
-    pass
+    yield 1
+    yield 1
+    yield 1
